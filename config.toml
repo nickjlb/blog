@@ -1,3 +1,40 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://nickjlb.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'all of it.'
+theme = 'gokarna'
+enableRobotsTXT = true
+enableEmoji = true
+
+[menu]
+  [[menu.main]]
+  identifier = "posts"
+  url = "/posts/"
+  name = "Vault"
+  weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    url = "/tags/"
+    name = "Tags"
+    weight = 2
+
+[params]
+  customHeadHTML = ""
+  # Description to display on homepage
+  description = "a repository of my work."
+
+  # Accent color is displayed when you hover over <a> tags
+  accentColor = "#FF4D4D"
+
+  # Keywords relevant for SEO
+  metaKeywords = ["", "", ""]
+
+  # If you want to display posts on the homepage, the options are
+  # "popular" (order posts by weight), "recent" (order posts by date)
+  # or "" (do not display, default option)
+  showPostsOnHomePage = "popular"
+
+  # Footer text
+  footer = "nick."
+
+  togglePreviousAndNextButtons = "true"
