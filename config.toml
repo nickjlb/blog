@@ -1,6 +1,6 @@
 baseURL = 'https://vault.nickbanning.com'
 languageCode = 'en-us'
-title = 'all of it.'
+title = 'mental excess.'
 theme = 'gokarna'
 enableRobotsTXT = true
 enableEmoji = true
@@ -21,10 +21,10 @@ enableEmoji = true
 [params]
   customHeadHTML = ""
   # Description to display on homepage
-  description = "my creative repository."
+  description = "- my creative repository -"
 
   # Accent color is displayed when you hover over <a> tags
-  accentColor = "#FF4D4D"
+  accentColor = "#6495ED"
 
   # Keywords relevant for SEO
   metaKeywords = ["", "", ""]
