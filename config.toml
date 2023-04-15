@@ -21,7 +21,7 @@ enableEmoji = true
 [params]
   customHeadHTML = ""
   # Description to display on homepage
-  description = "a repository of my work."
+  description = "my creative repository."
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"
