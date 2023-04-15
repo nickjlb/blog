@@ -19,22 +19,11 @@ enableEmoji = true
     weight = 2
 
 [params]
-  customHeadHTML = ""
-  # Description to display on homepage
+  avatarURL = "/images/light.jpg"
+  avatarSize = "size-l"
   description = "- my creative repository -"
-
-  # Accent color is displayed when you hover over <a> tags
   accentColor = "#6495ED"
-
-  # Keywords relevant for SEO
   metaKeywords = ["", "", ""]
-
-  # If you want to display posts on the homepage, the options are
-  # "popular" (order posts by weight), "recent" (order posts by date)
-  # or "" (do not display, default option)
-  showPostsOnHomePage = "popular"
-
-  # Footer text
+  showPostsOnHomePage = "recent"
   footer = "nick."
-
   togglePreviousAndNextButtons = "true"
