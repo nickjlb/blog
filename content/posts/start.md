@@ -1,5 +1,5 @@
 ---
-title: "Something Important to Me"
+title: "Something Important to Me."
 date: 2023-04-13T22:35:53-07:00
 draft: false
 type: "post"

@@ -1,5 +1,5 @@
 ---
-title: "The Right Tools"
+title: "The Right Tools."
 date: 2023-04-14T14:02:12-07:00
 draft: false
 type: "post"
