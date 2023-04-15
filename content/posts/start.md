@@ -6,7 +6,7 @@ type: "post"
 tags: ["life"]
 ---
 
-I used to be obsessed with the idea of legacy. This concept was pervasive - I couldn't let go of wanting to be important or wanting to be recognized as important. This idea stuck with me for years, despite not actually working towards greatness or high achievement.
+I used to be obsessed with the idea of legacy. This concept was pervasive — I couldn't let go of wanting to be important or wanting to be recognized as important. This idea stuck with me for years, despite not actually working towards greatness or high achievement.
 
 I think when you're especially young, it can be easy to succumb to the ego and seek to defeat death, something intangible and scary. It's great to be recognized, but I've realized that I just want to be satisfied with my own output and creation at the end. Legacy isn't important because it only exists when it matters the least, and the pursuit of positive perception can only wear me down.
 

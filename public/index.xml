@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>all of it.</title>
+    <link>https://nickjlb.github.io/blog/</link>
+    <description>Recent content on all of it.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2023 22:35:53 -0700</lastBuildDate><atom:link href="https://nickjlb.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Something Important to Me</title>
+      <link>https://nickjlb.github.io/blog/posts/start/</link>
+      <pubDate>Thu, 13 Apr 2023 22:35:53 -0700</pubDate>
+      
+      <guid>https://nickjlb.github.io/blog/posts/start/</guid>
+      <description>I used to be obsessed with the idea of legacy. This concept was pervasive - I couldn&amp;rsquo;t let go of wanting to be important or wanting to be recognized as important. This idea stuck with me for years, despite not actually working towards greatness or high achievement.
+I think when you&amp;rsquo;re especially young, it can be easy to succumb to the ego and seek to defeat death, something intangible and scary.</description>
+    </item>
+    
+  </channel>
+</rss>
