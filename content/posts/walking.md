@@ -3,7 +3,7 @@ title: "The Intrinsic Bliss of Walking Your Groceries Home."
 date: 2023-04-15T16:27:38-07:00
 draft: false
 type: "post"
-tags: ["urban design","neighborhoods"]
+tags: ["urban design"]
 ---
 
 Southern California is about driving. To get to *any* place, you need to drive, find someone who can drive, or navigate the often slow and dismal public transit routes, all of which I've experienced in excess, first-hand. Although it sounds relatively negative, I enjoyed this. Driving is something I love because, especially early-on in my life, it provides this immense feeling of freedom and control, despite everything else being in disarray.
