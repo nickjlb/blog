@@ -12,4 +12,4 @@ I think when you're especially young, it can be easy to succumb to the ego and s
 
 I want to live in a place where I can exist as is, improving slowly and steadily, but without the pressure to be this way or that way. My anxiety stems from the feeling that I can't fit the expectations of others. The fear that's been bred from expectations is tiresome and I'm left raw. Not cold to the world, but rather overstimulated, sensitive to what I see as judgement and the molds that I can't even began to fit while being who I want to be.
 
-That's why I want to create my own space. It's not entirely secluded, but that's not the point. I want to hone my output a create a repository of everything that's important to me. I want to be proud of what I create, and this is how I start.
+That's why I want to create my own space. It's not entirely secluded, but that's not the point. I want to hone my output and create a repository of everything that's important to me. I want to be proud of what I create, and so, this is how I start.

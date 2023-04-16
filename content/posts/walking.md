@@ -1,5 +1,5 @@
 ---
-title: "The Intrinsic Bliss of Walking Your Groceries Home."
+title: "The Intrinsic Bliss of Walking to the Store."
 date: 2023-04-15T16:27:38-07:00
 draft: false
 type: "post"
