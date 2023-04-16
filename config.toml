@@ -1,4 +1,4 @@
-baseURL = 'https://vault.nickbanning.com'
+baseURL = 'vault.nickbanning.com'
 languageCode = 'en-us'
 title = 'mental excess.'
 theme = 'gokarna'
