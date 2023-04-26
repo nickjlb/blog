@@ -1,5 +1,5 @@
 ---
-title: "Will We Allow Our Lives to Improve?"
+title: "Accepting Different Terms."
 date: 2023-04-21T11:23:06-07:00
 draft: false
 type: "post"

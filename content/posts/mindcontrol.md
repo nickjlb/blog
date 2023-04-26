@@ -1,5 +1,5 @@
 ---
-title: "Reality through Perception"
+title: "Reality through Perception."
 date: 2023-04-20T01:06:03-07:00
 draft: false
 type: "post"
