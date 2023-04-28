@@ -1,7 +1,7 @@
 ---
 title: "Incomplete: What Do I Want From Online Society?"
 date: 2023-04-24
-draft: true
+draft: false
 type: "post"
 tags: ["social networks","incentives","privacy"]
 showTableOfContents: true
