@@ -35,3 +35,6 @@ enableEmoji = true
     startLevel = 1
     endLevel = 3
     ordered = false
+
+[markup.goldmark.renderer]
+  unsafe = true
