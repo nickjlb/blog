@@ -11,6 +11,11 @@
             <li class="post-tag"><a href="{{ "tags/" | absLangURL }}{{ . | urlize }}">{{ . }}</a></li>
         {{ end }}
         </ul>
+        {{ if .Params.edited}}
+            <div>
+                <p><img class="svg-inject" src="{{ $.Site.BaseURL }}/icons/check-circle.svg" title="Revised." style="vertical-align:bottom"/></p>
+            </div>
+        {{end}}
     </div>
 
     <div class="post-content">
