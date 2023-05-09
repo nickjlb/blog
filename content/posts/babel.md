@@ -4,6 +4,7 @@ date: 2023-05-02T02:38:27-07:00
 draft: false
 type: "post"
 tags: ["interesting"]
+edited: true
 ---
 
 A long time ago I came across the [Library of Babel]( https://libraryofbabel.info/ "Library of Babel"). It's based on a book, that I haven't read, centered around an infinite library, containing every possible set of text imaginable. That means that although nearly all of the library contains gibberish, there are some books that contain a perfect transcript of the future, bibliographies of every human being, and any other text that can ever be written.
