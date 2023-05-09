@@ -1,5 +1,5 @@
 ---
-title: "Tethers"
+title: "Releasing the Tethers."
 date: 2023-05-08T18:03:23-07:00
 draft: false
 type: "post"
