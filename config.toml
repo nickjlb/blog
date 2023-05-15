@@ -4,6 +4,8 @@ title = 'mental excess.'
 theme = 'gokarna'
 enableRobotsTXT = true
 enableEmoji = true
+enableInlineShortcodes = true
+
 
 [menu]
   [[menu.main]]
