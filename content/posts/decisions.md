@@ -3,7 +3,7 @@ title: "Decisions."
 date: 2023-06-01T21:44:29-07:00
 draft: false
 type: "post"
-tags: []
+tags: ["life","goals"]
 edited: true
 showTableOfContents: false
 ---
