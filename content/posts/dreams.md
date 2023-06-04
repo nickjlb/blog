@@ -1,6 +1,6 @@
 ---
 title: "Missing Dreams."
-date: 2023-06-03T18:40:19-07:00
+date: 2023-06-03
 draft: false
 type: "post"
 tags: ["life","goals","wants"]
