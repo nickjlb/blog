@@ -1,9 +1,9 @@
 ---
 title: "Missing Dreams."
 date: 2023-06-03T18:40:19-07:00
-draft: true
+draft: false
 type: "post"
-tags: []
+tags: ["life","goals","wants"]
 edited: true
 showTableOfContents: false
 ---
