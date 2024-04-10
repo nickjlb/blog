@@ -1,5 +1,5 @@
 ---
-title: "Finding the Keys to Happiness and Forgetting Where You Placed Them."
+title: "The Keys to Happiness and Forgetting Where You Placed Them."
 date: 2023-07-11T20:47:03-07:00
 draft: false
 type: "post"
