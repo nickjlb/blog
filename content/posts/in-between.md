@@ -3,7 +3,7 @@ title: "The In Between."
 date: 2024-04-09T19:36:33-07:00
 draft: false
 type: "post"
-tags: []
+tags: ["advice","realization","philosophy","balance"]
 edited: false
 showTableOfContents: false
 ---
