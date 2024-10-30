@@ -1,12 +1,14 @@
 ---
-title: "Incomplete: What Do I Want From Online Society?"
-date: 2023-04-24
+title: "WIP: What Do I Want From Online Society?"
+date: 2024-10-29
+created: 2023-04-24
 draft: false
 type: "post"
-tags: ["social networks","incentives","privacy"]
+tags: ["social networks","incentives","privacy","WIP"]
 showTableOfContents: true
 ---
 
+# Introduction
 In general, I'm someone that has always been interested in, and thinks a lot about systems, and what they incentivise based on their structure. Whether that's in terms of governments, sports, urban design, websites, or any other system that revolves around human interaction. Lately, that focus, as you may have [seen](/posts/incentives "Accepting Different Terms. | mental excess.") has been on social networks.
 
 As of late, I've heavily researched [alternative ideas](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech "Protocols, Not Platforms: A Technological Approach to Free Speech") for social networks. This is mostly inspired by my interest in privacy and trying to understand how these social networks affect society at large. Although I'm not an incredibly active participant on social media, I can see how nuance is removed from concepts and ideas and then spread around quickly, informing us with a twisted, misrepresented version of reality. Additionally, I think its had a measurable negative impact on attention-spans.
@@ -38,11 +40,36 @@ For all of these platforms, it's important to consider how value is being extrac
 
 To summarize, I find Reddit the most useful. Instagram used to be useful, before the attention algorithm pervaded every corner of the app, and TikTok was never particularly useful, but at least had more interesting, creative content than Instagram ever has.
 
+---
+
 ## The Primary Elements
 I want to discuss and condense broader ideas into specific categories to better define the edges of this hypothetical social network. I'm going to brainstorm and distill what I like from other networks to provide a stronger framework of which to build upon.
 
-### The Basics
-I want to convey a broad framework ahead of time, in order to provide a roadmap that can lead all the other elements I'll be discussing. These are the broad strokes that I will clarify in detail later.
+### Media Formats
+One of the most important considerations of a social network is understanding the media format it is focused on. Generally, all social media has text, video, and image content, but I believe it always tends towards one or two types of content, primarily because they all are navigated in slightly different ways. As an example, both Twitter and Reddit accommodate photos and videos, but the primary method of engagement is through text replies and threads, respectively, with GIFs and other media being secondary.
+
+I believe that each content type inherently lends itself better to and incentivises certain types of interactions, shaping the platform itself. I suspect this may lead me to leaning towards one type of content over another given that it incentives more positive behaviors over that of its "peers".
+
+One major question I have, is whether there can be a form of social media that is only
+
+#### Content Type: Text
+
+
+#### Content Type: Images
+
+
+#### Content Type: Video
+
+##### Short-form
+
+##### Long-form
+
+
+#### Content Type: Audio
+
+
+### Method of Interaction
+
 
 ### Interaction
 When I think of online communities, I don't just think of a place that hosts online content, but a place that's interactive and incentivises discussion rather than being limited to comments on a piece of media. I'm picturing two-way conversations between producers and consumers, and an less of a dichotomy between the two. Anyone in this hypothetical system should be *both* to encourage participation. TikTok and YouTube are two networks where I feel the divide between producers and consumers is largest. The barrier to creating content is higher than most other networks. I think all media is useful, but creating a network that prioritizes text and images minimizes the barrier to creation.
@@ -50,6 +77,11 @@ When I think of online communities, I don't just think of a place that hosts onl
 To provide some clarity, I think the network should not be video-centric, and I think forum-like threads (i.e. Reddit), should be avoided because visually it doesn't allow for long conversations. The thread gets squished to the right the more responses there are. Twitter-like threads might be better, but perhaps even a group chat-like setup might be interesting. However, replies allow ideas to be condensed, so a group chat might be functionally worse. One idea is and upvote-downvote system in conjunction with replies and the ability to sort replies in various ways (i.e. Reddit, again).
 
 ### Moderation
+How this topic is handled will likely make or break the rest of this essay.
+
+What do we want to moderate? Moderated content can seemingly be divided into two buckets: Objective violations and subjective violations. Objective violations include all illegal content, whereas subjective violations would be violations that breach terms of service, i.e. hate speech, pornography, threats, etc. [^4] Even so, I will likely refine this dichotomy because moderation is not black and white at *all*. I think this is the most difficult subject when in comes to these platforms and needs to be approached from the back end, i.e. effto remove offending content
+
+#### Objective Violations
 
 
 ### Business Models
@@ -60,3 +92,5 @@ To provide some clarity, I think the network should not be video-centric, and I 
 [^2]: A/B testing in the context of social networks is the practice of showing users different versions of the same app, to determine which permutation is the most financially rewarding. By doing this over and over, stacking revision upon revision, a company can find the most optimal — profit-wise — version of their site.
 
 [^3]: And by democratic I mean what other users upvote the most get boosted to the top of the search.
+
+[^4]: When I say "objective" and "subjective", I don't mean to say that one type of violation is much more obvious or easier to identify than the other. I'm instead intending to differentiate between content that must be removed and content that we have more agency to decide to remove.
